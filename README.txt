@@ -8,5 +8,5 @@ FUNCTIONALITIES IMPLEMENTED:
 2. Additional customisation and styling
 3. Live validation of the user input and flag entries that are not domain names: When user hits the "Filter to top rank" button the domains which are not a valid domain are underlined in red.
 
-Github account:
-1. 
+Github account: https://github.com/PoojaNangude/gigasheet-coding-problem
+Remote URL: https://blissful-hopper-70f61a.netlify.app/
