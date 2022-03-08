@@ -3,6 +3,8 @@ RUNNING THE APPLICATION
 2. Run the command 'npm install' to install the required packages
 3. Run the command 'npm start' to execute the application
 
+Output screenshot has been added in the project directory.
+
 FUNCTIONALITIES IMPLEMENTED:
 1. The domain is highlighted if it ranks anywhere between 1 to 100 (100 exclusive)
 2. Additional customisation and styling
