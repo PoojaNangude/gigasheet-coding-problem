@@ -1,23 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import './Gigasheet';
+import Gigasheet from "./Gigasheet";
+import 'react-bootstrap/dist/react-bootstrap.min'
+import 'bootswatch/dist/quartz/bootstrap.min.css'
+// import 'minty-bootstrap/dist/minty.min.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Gigasheet/>
     </div>
   );
 }
